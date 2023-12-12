@@ -1,0 +1,98 @@
+C:\Users\User\Desktop\Chord\server2\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\Chord\server2\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\User\Desktop\Chord\server2\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server2\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\server2\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\bin\Debug\net6.0\Repository.pdb
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.pdb
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.dll
+F:\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.pdb
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.dll
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.pdb
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Repository\obj\Debug\net6.0\ref\Repository.dll
