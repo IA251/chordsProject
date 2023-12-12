@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Images\\יעקב שוואקי.jpg",
+      "PackagePath": "staticwebassets\\Images\\יעקב שוואקי.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Images\\משה קליין.jpg",
+      "PackagePath": "staticwebassets\\Images\\משה קליין.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Images\\ניסיון1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ניסיון1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Images\\רציתי לגדול.jpg",
+      "PackagePath": "staticwebassets\\Images\\רציתי לגדול.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Images\\שיר פשוט.jpg",
+      "PackagePath": "staticwebassets\\Images\\שיר פשוט.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Songs\\ניסיון1.mp3",
+      "PackagePath": "staticwebassets\\Songs\\ניסיון1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Songs\\רציתי לגדול.mp3",
+      "PackagePath": "staticwebassets\\Songs\\רציתי לגדול.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\תכנות תשפד\\Chord\\server\\UI\\wwwroot\\Songs\\שיר פשוט.mp3",
+      "PackagePath": "staticwebassets\\Songs\\שיר פשוט.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UI.props",
+      "PackagePath": "build\\UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UI.props",
+      "PackagePath": "buildMultiTargeting\\UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UI.props",
+      "PackagePath": "buildTransitive\\UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
