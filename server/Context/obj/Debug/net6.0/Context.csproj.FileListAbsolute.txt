@@ -1,0 +1,119 @@
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server2\Context\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\server2\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\server 5 שכבות\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\User\Desktop\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\ref\Context.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.deps.json
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Context.pdb
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Repository.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\bin\Debug\net6.0\Repository.pdb
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\refint\Context.dll
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.pdb
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+F:\Chord\‏‏server 5 שכבות - מתוקן\Context\obj\Debug\net6.0\ref\Context.dll
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.deps.json
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.dll
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.pdb
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Repository.dll
+F:\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Repository.pdb
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.dll
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\refint\Context.dll
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.pdb
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+F:\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\5 שכבות מותאם\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות תשפד\Chord\server\Context\obj\Debug\net6.0\ref\Context.dll
